@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "360954aa7e42c6afa66123b1415e2d92",
+    "revision": "4f14a194bb7dc0cb05e7ed034ef4b05a",
     "url": "/dodgen92/memorygame/index.html"
   },
   {
-    "revision": "d52e4316bb2e74460c26",
+    "revision": "09ad08fccf05ef1f2b7b",
     "url": "/dodgen92/memorygame/static/css/main.559ca08b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dodgen92/memorygame/static/js/2.8d5cc82b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d52e4316bb2e74460c26",
-    "url": "/dodgen92/memorygame/static/js/main.0b3ef0b1.chunk.js"
+    "revision": "09ad08fccf05ef1f2b7b",
+    "url": "/dodgen92/memorygame/static/js/main.0147eb8a.chunk.js"
   },
   {
     "revision": "ea100976a4371ee13dd6",

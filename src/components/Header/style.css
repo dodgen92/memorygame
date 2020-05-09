@@ -1,0 +1,14 @@
+.header {
+    background-color: rgba(0, 0, 0, 0.979);
+    background-image: url("#");
+    background-repeat: repeat;
+    color: rgb(137, 10, 221);
+    min-height: 75px;
+    text-align: center;
+  }
+  
+  .header h1 {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 4rem;
+  }
